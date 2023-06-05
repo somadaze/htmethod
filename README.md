@@ -3,7 +3,9 @@
 Just a small script I wrote in python to query accepted HTTP Methods.
 Nothing exciting, or new, but something to help me learn.
 
+
 Requires python.
+
 
 Usage:
 
@@ -14,6 +16,7 @@ python3 htmethod.py -d [example.com]
 python3 htmethod.py -d [example.com example2.com example3.com]
 
 python3 htmethod.py -f [file with URLs]
+
 
 
 
