@@ -8,9 +8,14 @@ Requires python.
 Usage:
 
 python3 htmethod.py [user will be prompted for domain to query]
+
 python3 htmethod.py -d [example.com]
+
 python3 htmethod.py -d [example.com example2.com example3.com]
+
 python3 htmethod.py -f [file with URLs]
+
+
 
 Domain/url files should have one per line.
 
