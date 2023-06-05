@@ -4,7 +4,6 @@ Just a small script I wrote in python to query accepted HTTP Methods.
 Nothing exciting, or new, but something to help me learn.
 
 
-Requires python.
 
 
 Usage:
@@ -21,6 +20,9 @@ python3 htmethod.py -f [file with URLs]
 
 
 Domain/url files should have one per line.
+
+
+REQUIRES: Tested on python3
 
 
 
