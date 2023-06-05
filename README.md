@@ -20,7 +20,8 @@ python3 htmethod.py -f [file with URLs]
 
 
 
-## REQUIRES: Tested on python3
+### REQUIRES 
+Tested on python3
 
 
 
